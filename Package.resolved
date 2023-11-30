@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wlyuikitbase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitee.com/laoyouHome/WLYUIKitBase.git",
+      "state" : {
+        "revision" : "112c77ff1a71341f98c73b412717022c7b275752",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
